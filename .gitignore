@@ -1,0 +1,6 @@
+.idea
+.project
+a.o*
+.vscode
+*.exe
+*.obj
